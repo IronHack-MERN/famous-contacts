@@ -85,7 +85,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>IronContacts</h1>
+        <h1>Famous Contacts</h1>
 
         <Button 
           myProp={this.addRandomContact}>
