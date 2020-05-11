@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.table-container {
+  /* background-color: blue; */
+  width: 100%;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  background-color: #A4A4A4;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #000000;
+  font-size: 1rem;
+}
